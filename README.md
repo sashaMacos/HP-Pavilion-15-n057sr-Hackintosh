@@ -1,4 +1,4 @@
-# Hackintosh для HP Pavilion 15 n057sr
+# Hackintosh для HP Pavilion 15-n057sr
 
 ## 💻 Характеристики
 
