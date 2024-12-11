@@ -66,7 +66,7 @@
 
 Мой EFI работает на базе OpenCore версии 0.8.5.  
 Я использовал SMBIOS **MacBookPro12,1** для установки macOS Monterey.  
-Советую изменить SMBIOS с помощью **GenSMBIOS** — лучше всего использовать **MacBookPro11,1**.
+Советую изменить SMBIOS с помощью **GenSMBIOS** — лучше всего использовать **MacBookPro11,1**. SMBIOS надо менять не только в config.plist, но и в USBports.kext/contents/info.plist (там 4 записи с SBMBIOS, советую просто сделать Find + Replace)
 
 - Если вы не меняли Wi-Fi-адаптер, скачайте файл: **EFI_NOWIFI**. (https://github.com/sashaMacos/HP-Pavilion-15-n057sr-Hackintosh/releases/download/EFI/EFI_NOWIFI.zip)
 - Если у вас карта Atheros AR9285 (AR5B95), скачайте файл: **EFI_ARWIFI**. (https://github.com/sashaMacos/HP-Pavilion-15-n057sr-Hackintosh/releases/download/EFI/EFI_ARWIFI.zip)
