@@ -56,7 +56,7 @@
 
 
 # Как установить macOS Monterey и выше шаги установки:
- Для установки можно использовать созданый мной [конфиг с SMBIOS iMacPro1,1](https://github.com/sashaMacos/HP-Pavilion-15-n057sr-Hackintosh/releases/download/EFI2/EFI_NOWIFI.zip)
+ Для установки можно использовать созданый мной [конфиг с SMBIOS iMacPro1,1](https://github.com/sashaMacos/HP-Pavilion-15-n057sr-Hackintosh/releases/download/EFI2/EFI_INSTALL.zip)
 
   1. Установите SMBIOS, который поддерживается новой macOS (например, iMacPro1,1 работает для всего).
   2. Произведите установку системы с выбранным SMBIOS.
