@@ -49,8 +49,8 @@
 | macOS 11 Big Sur     | ✅        | ✅             |
 | macOS 12 Monterey    | ✅        | ✅             |
 | macOS 13 Ventura     | ✅        | ✅             |
-| macOS 14 Sonoma      | ❌        | ❌             |
-| macOS 15 Sequoia     | ❌        | ❌             |
+| macOS 14 Sonoma      | ✅        | ❌             |
+| macOS 15 Sequoia     | ✅        | ❌             |
 
 Все не протестированные системы, указанные выше, **в теории** должны работать, но требуется тестирование. Если использовать версию [**EFI_NOWIFI**](https://github.com/sashaMacos/HP-Pavilion-15-n057sr-Hackintosh/releases/download/EFI2/EFI_NOWIFI.zip), все эти системы запустятся и будут работать. Для macOS 13 Ventura и новее нужен патч графики.
 
