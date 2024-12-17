@@ -39,7 +39,7 @@
 
 | Название              | Работает | Протестировано |
 |-----------------------|----------|----------------|
-| OS X 10.9 Mavericks  | ✅        | ❌             |
+| OS X 10.9 Mavericks*  | ✅        | ✅             |
 | OS X 10.10 Yosemite  | ✅        | ❌             |
 | OS X 10.11 El Capitan| ✅        | ❌             |
 | macOS 10.12 Sierra   | ✅        | ❌             |
@@ -53,6 +53,8 @@
 | macOS 15 Sequoia     | ✅        | ❌             |
 
 Все не протестированные системы, указанные выше, **в теории** должны работать, но требуется тестирование. Если использовать версию [**EFI_NOWIFI**](https://github.com/sashaMacos/HP-Pavilion-15-n057sr-Hackintosh/releases/download/EFI2/EFI_NOWIFI.zip), все эти системы запустятся и будут работать. Для macOS 13 Ventura и новее нужен патч графики.
+
+* OS X 10.9 Mavericks: Запустилась, AR5B95 успешно работает используя [**EFI_ARWIFI**](https://github.com/sashaMacos/HP-Pavilion-15-n057sr-Hackintosh/releases/download/EFI2/EFI_ARWIFI.zip), одна проблема: тачпад не ворк.
 
 
 # Как установить macOS Monterey и выше шаги установки:
