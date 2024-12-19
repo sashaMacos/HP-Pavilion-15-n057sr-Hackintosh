@@ -45,7 +45,7 @@
 | macOS 10.12 Sierra   | ✅        | ❌             |
 | macOS 10.13 High Sierra | ✅    | ✅             |
 | macOS 10.14 Mojave   | ✅        | ✅             |
-| macOS 10.15 Catalina | ✅        | ❌             |
+| macOS 10.15 Catalina | ✅        | ✅             |
 | macOS 11 Big Sur     | ✅        | ✅             |
 | macOS 12 Monterey    | ✅        | ✅             |
 | macOS 13 Ventura     | ✅        | ✅             |
