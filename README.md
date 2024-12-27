@@ -10,7 +10,7 @@
 | Звук                   | Realtek ALC269                        |
 | Тачпад                 | Synaptics PS2                         |
 | Wi-Fi                  | MediaTek MT7630E (заменён на Atheros AR9285 - AR5B95) |
-| Ethernet               | Realtek                               |
+| Ethernet               | Realtek RTL8106EUS PCI                               |
 | Bluetooth              | MediaTek MT7630E (в Atheros AR9285 отсутствует) |
 | Камера                 | HP TrueVision HD                      |
 | Картридер              | RTS5227 PCI Express                   |
