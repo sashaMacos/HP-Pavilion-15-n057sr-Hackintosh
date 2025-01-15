@@ -7,7 +7,7 @@
 | Процессор              | Intel® Core i5-4200U                  |
 | Видеокарта (iGPU)      | Intel® HD Graphics 4400               |
 | Видеокарта (dGPU)      | AMD Radeon HD 8670M                   |
-| Звук                   | Realtek ALC269                        |
+| Звук                   | Realtek ALC282                        |
 | Тачпад                 | Synaptics PS2                         |
 | Wi-Fi                  | MediaTek MT7630E (заменён на Atheros AR9285 - AR5B95) |
 | Ethernet               | Realtek RTL8106EUS PCI                               |
